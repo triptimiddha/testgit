@@ -1,3 +1,7 @@
 Hi This is my first file in GitHub.
 
-Made some changes in the file secong time.
+made some changes via Local comp
+<<<<<<< HEAD
+Made some changes in the file second time.
+=======
+>>>>>>> 6af19ba457309f5db7788d58d2a07a0029f685c7
